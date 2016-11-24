@@ -159,10 +159,12 @@ ul.sidebar-menu li a.active {
 
 /* Modal */
 
-form{
+.form-login{
     width: 30%;
     margin-left: 35%;
 }
+
+/* Form Panel */
 
 
 
