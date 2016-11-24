@@ -73,13 +73,13 @@ h5 { /* Para los botones */
     display: block;
 }
 
-ul.sidebar-menu li {
+ul.sidebar-menu li { /* Lista del menu */
     margin-top: 10%;
     font-size: 12px;
     display: block;
 }
 
-.box1{
+.box1{ 
  	font-size: 50px;
 }
 
@@ -93,7 +93,7 @@ ul.sidebar-menu li {
 	margin-top: -35%;
 }
 
-.box-purple{
+.box-purple{ /* Botones morados */
 	color:white;
 	background-color: #9C4C9D;
 	border-radius: 4px;
